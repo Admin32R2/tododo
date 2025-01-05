@@ -25,6 +25,8 @@ function App() {
         <MyButton something={something} onClick={handleClick} />
         <MyButton somethingAD1={somethingAD1} onClick={handleClickAD1} />
         <MyButton somethingAD1={somethingAD1} onClick={handleClickAD1} />
+
+        
       </div>
 
         <p>
